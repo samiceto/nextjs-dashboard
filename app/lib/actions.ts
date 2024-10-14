@@ -7,6 +7,3 @@ export async function createInvoice(formData: FormData){
     };
     console.log(rawFormData);
 }
-export async function submitd(){
-    console.log("log,log")
-}
